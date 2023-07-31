@@ -1,0 +1,18 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# ignore virtualenv
+venv/
+
+# ignoring settings
+production_settings.py
+local_settings.py
+
+# ignoring sqlite3
+db.sqlite3
+db.sqlite3-journal
+
+# ignoring media folder
+media
