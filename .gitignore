@@ -6,6 +6,10 @@ __pycache__/
 # ignore virtualenv
 venv/
 
+# IntelliJ IDEA
+.idea/
+*.iml
+
 # ignoring settings
 production_settings.py
 local_settings.py
